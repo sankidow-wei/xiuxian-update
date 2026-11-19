@@ -1,16 +1,16 @@
 {
- "version": "v11.11",
+ "version": "v11.14",
  "min_version": "v11.11",
  "min_shell": 1,
- "notes": "\u52a0\u5165\u639b\u6a5f\u512a\u5148\u9806\u5e8f",
- "url": "https://raw.githubusercontent.com/sankidow-wei/xiuxian-update/main/content/content-v11.11.zip",
- "sha256": "8892ba4ca3f45e27cbfee2a8b871407ab7bd1b91cc5622d09e3008c1d76b2d4b",
- "size": 416513,
+ "notes": "\u96b1\u85cf\u8cc7\u8a0a",
+ "url": "https://raw.githubusercontent.com/sankidow-wei/xiuxian-update/main/content/content-v11.14.zip",
+ "sha256": "73a2eab47d0d072a62bcc62b3eae8eed40f9db45c36685cf704d1a9ed3ec0962",
+ "size": 547346,
  "answers": {
   "url": "https://raw.githubusercontent.com/sankidow-wei/xiuxian-update/main/data/answers.json",
   "sha256": "72b99fedaa4a36a36bdb0e87c5e2e0e03b5f54e4cacad13990de5825e488f8b0"
  },
  "full_url": "",
- "time": "2026-11-19 18:10:34",
+ "time": "2026-11-19 21:28:41",
  "license": true
 }
