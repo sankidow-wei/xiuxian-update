@@ -1,0 +1,15 @@
+{
+ "version": "v11.9",
+ "min_version": "",
+ "min_shell": 1,
+ "notes": "\u6e2c\u8a66\u81ea\u52d5\u66f4\u65b0",
+ "url": "https://raw.githubusercontent.com/sankidow-wei/xiuxian-update/main/content/content-v11.9.zip",
+ "sha256": "901f0afa1182038bf183a3a17901a9dbeeabb5fde23c5a898e5cf67a56080ca4",
+ "size": 387191,
+ "answers": {
+  "url": "https://raw.githubusercontent.com/sankidow-wei/xiuxian-update/main/data/answers.json",
+  "sha256": "72b99fedaa4a36a36bdb0e87c5e2e0e03b5f54e4cacad13990de5825e488f8b0"
+ },
+ "full_url": "",
+ "time": "2026-11-19 12:39:26"
+}
